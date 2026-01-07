@@ -1,6 +1,6 @@
 {
   "name": "refluxio",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Minimal flux implementation for React",
   "source": "src/index.ts",
   "main": "dist/main.js",
